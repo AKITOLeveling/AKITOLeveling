@@ -1,7 +1,7 @@
 <h1 align="center">Hᴇʏ Tʜᴇʀᴇ, I Aᴍ </h1>
 </p>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=1C71FA&width=420&lines=A+Enthusiastic+Developer+From+India%E2%9C%8C%EF%B8%8F;Working+For+Team+Codebreaker</>%E2%9D%A4%EF%B8%8F">
+<img src="https://readme-typing-svg.herokuapp.com?color=1C71FA&width=420&lines=A+Developer+Working+On+Game+Bots+&+Also+On+Many+Games%E2%9C%8C%EF%B8%8F;Working+By+My+Team+Codebreaker+Entries+Open</>%E2%9D%A4%EF%B8%8F">
 </p>
 <p align="center">
   
@@ -11,8 +11,6 @@
 <br>🌐 Wᴇʙ
 <br>🚀 Tʀᴀɴsғᴏʀᴍɪɴɢ Iᴅᴇᴀs ɪɴᴛᴏ Cᴏᴅᴇ
 <br>🎨 Dᴇsɪɢɴɪɴɢ Dɪɢɪᴛᴀʟ Exᴘᴇʀɪᴇɴᴄᴇs
-<br>🔗 Oᴘᴇɴ Sᴏᴜʀᴄᴇ Aᴅᴠᴏᴄᴀᴛᴇ
-
 
 ## 🌐 Sᴏᴄɪᴀʟs:
 [![Telegram](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/5174) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/siamkira) 
